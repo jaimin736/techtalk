@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(246, 176, 243);
+}
+header{
+    padding: auto;
+    background-color: rgb(6, 254, 221);
+    border-radius: 15px;
+    font-style: oblique;
+    color: red;
+}
+
+main{
+    padding: 30px;
+    background-color: rgb(237, 250, 103);
+    border-radius: 15px;
+    font-size: larger;
+    font-style: oblique;
+}
+ nav{
+    padding: auto;
+    background-color: chartreuse;
+    border-radius: 15px;
+}
+footer{
+    padding: auto;
+    background-color: chartreuse;
+    border-radius: 15px;
+}
+
+ul{
+    display: inline;
+    margin: auto;
+}
+
+a{
+    color: darkgray;
+}
+
+a:hover{
+    color: crimson;
+}
